@@ -1,6 +1,6 @@
 {
   "name": "@icancode/timer",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Simple time measurement",
   "main": "main",
   "scripts": {
